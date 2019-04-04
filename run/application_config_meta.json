@@ -1,0 +1,264 @@
+{
+  "keys": "D:\\桌面备份\\work\\egg-study\\config\\config.default.js",
+  "session": {
+    "maxAge": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "key": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "httpOnly": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "encrypt": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+    "protocolWhiteList": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "useSession": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "ignoreJSON": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "cookieName": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "sessionName": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "headerName": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "bodyName": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "queryName": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "value": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.local.js",
+      "maxAge": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "value": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "value": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "policy": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "checkAddress": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-i18n@2.0.0@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js",
+      "development": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-schedule@3.6.1@egg-schedule\\config\\config.default.js",
+      "file": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-schedule@3.6.1@egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-schedule@3.6.1@egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-multipart@2.4.0@egg-multipart\\config\\config.default.js",
+    "autoFields": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-multipart@2.4.0@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-multipart@2.4.0@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-multipart@2.4.0@egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-multipart@2.4.0@egg-multipart\\config\\config.default.js",
+    "fields": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-multipart@2.4.0@egg-multipart\\config\\config.default.js",
+    "fileSize": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-multipart@2.4.0@egg-multipart\\config\\config.default.js",
+    "files": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-multipart@2.4.0@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-multipart@2.4.0@egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-multipart@2.4.0@egg-multipart\\config\\config.default.js",
+    "tmpdir": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-multipart@2.4.0@egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-multipart@2.4.0@egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-development@2.4.2@egg-development\\config\\config.default.js",
+    "ignoreDirs": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-development@2.4.2@egg-development\\config\\config.default.js",
+    "fastReady": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-development@2.4.2@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-development@2.4.2@egg-development\\config\\config.default.js",
+    "overrideDefault": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-development@2.4.2@egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-logrotator@3.0.7@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-logrotator@3.0.7@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-logrotator@3.0.7@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-logrotator@3.0.7@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-logrotator@3.0.7@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-logrotator@3.0.7@egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-logrotator@3.0.7@egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dir": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dynamic": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "preload": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "buffer": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "cache": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.local.js",
+    "defaultExtension": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "mapping": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js"
+  },
+  "env": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+  "name": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+  "proxy": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+  "ipHeaders": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+  "hostHeaders": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "version": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "description": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "main": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "scripts": {
+      "test": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+      "dev": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+      "url": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js"
+    },
+    "author": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "license": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "bugs": {
+      "url": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js"
+    },
+    "homepage": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+  "HOME": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+  "rundir": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "notFound": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "sitefile": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "middlewares": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "httpClient": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "encoding": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "formLimit": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "jsonLimit": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "strict": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+      "depth": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+      "parameterLimit": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "encoding": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "env": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "level": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "consoleLevel": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "outputJSON": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "buffer": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "appLogName": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "coreLogName": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "agentLogName": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "errorLogName": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "request": {
+      "timeout": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+      "maxSockets": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+      "maxSockets": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "logging": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+  "workerStartTimeout": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+  "serverTimeout": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+      "port": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+      "hostname": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js",
+    "responseTimeout": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js"
+  },
+  "onClientError": "D:\\桌面备份\\work\\egg-study\\node_modules\\_egg@2.20.2@egg\\config\\config.default.js"
+}

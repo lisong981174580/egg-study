@@ -1,0 +1,26 @@
+{
+  "name": "egg-study",
+  "version": "1.0.0",
+  "description": "1. [egg](https://eggjs.org/zh-cn/intro/quickstart.html)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "egg-bin dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisong981174580/egg-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisong981174580/egg-study/issues"
+  },
+  "homepage": "https://github.com/lisong981174580/egg-study#readme",
+  "dependencies": {
+    "egg": "^2.20.2"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.12.1"
+  }
+}
