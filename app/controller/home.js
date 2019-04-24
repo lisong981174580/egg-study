@@ -4,5 +4,4 @@ class HomeController extends Controller {
     this.ctx.body = 'Hello world';
   }
 }
-
 module.exports = HomeController;
