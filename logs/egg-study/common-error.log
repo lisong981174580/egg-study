@@ -1,0 +1,12 @@
+2019-04-24 14:23:08,380 ERROR 44579 [-/::1/-/6ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.tpl from 
+    at Map.resolve (/Users/allen/Documents/学习/egg-study/node_modules/_egg-view@2.1.2@egg-view/lib/view_manager.js:74:5)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 44579
+hostname: lisongdeMacBook-Pro.local
+

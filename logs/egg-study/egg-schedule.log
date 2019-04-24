@@ -1,0 +1,30 @@
+2019-04-24 14:20:09,450 INFO 44475 [Timer] /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js next time will execute after 34790552ms at 2019-04-25 00:00:00.002
+2019-04-24 14:20:09,451 INFO 44475 [Timer] /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 34791549ms at 2019-04-25 00:00:01.000
+2019-04-24 14:20:09,319 INFO 44476 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js
+2019-04-24 14:20:09,319 INFO 44476 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-24 14:22:33,004 INFO 44544 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js
+2019-04-24 14:22:33,004 INFO 44544 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-24 14:22:33,917 INFO 44555 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js
+2019-04-24 14:22:33,917 INFO 44555 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-24 14:22:44,408 INFO 44569 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js
+2019-04-24 14:22:44,408 INFO 44569 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-24 14:22:59,890 INFO 44579 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js
+2019-04-24 14:22:59,890 INFO 44579 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-24 14:24:34,428 INFO 44637 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js
+2019-04-24 14:24:34,428 INFO 44637 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-24 14:43:08,637 INFO 44977 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js
+2019-04-24 14:43:08,637 INFO 44977 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-24 14:43:43,926 INFO 45007 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js
+2019-04-24 14:43:43,926 INFO 45007 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-24 14:47:35,509 INFO 45076 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js
+2019-04-24 14:47:35,509 INFO 45076 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-24 14:47:41,037 INFO 45087 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js
+2019-04-24 14:47:41,037 INFO 45087 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-24 14:48:19,270 INFO 45151 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js
+2019-04-24 14:48:19,270 INFO 45151 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-24 14:48:23,449 INFO 45162 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js
+2019-04-24 14:48:23,449 INFO 45162 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-24 14:48:24,594 INFO 45164 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js
+2019-04-24 14:48:24,594 INFO 45164 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-24 14:48:26,647 INFO 45174 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js
+2019-04-24 14:48:26,647 INFO 45174 [egg-schedule]: register schedule /Users/allen/Documents/学习/egg-study/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js
